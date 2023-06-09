@@ -1,1 +1,60 @@
-# portal
+# IPBL Portal Site for OIT and SIIT in 2023
+
+This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
+
+## Participating Universities
+- [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
+- [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
+---
+
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Goal
+- Deverop image recognition application that contribute to the SDGs
+  - REGULATIONS
+    - The application must use image recognition.
+    - The application must use videos (include stream from webcam).
+- Present about your application
+  - 10min
+  - contents
+    - self introduction
+    - choosed SDGs
+    - abstract of your application
+    - demonstration
+    - technical keypoints of your application
+
+---
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
+|Date||AM|PM|
+|-|-|-|-|
+|8/27|||Arrival in Thailand|
+|8/28|Day 1|Self-introduction, Preparation for development|Self-study for image processing|
+|8/29|Day 2|Self-study for image recognition|Determination of project theme (SDGs)|
+|8/30|Day 3|Excursion|
+|8/31|Day 4|Advancing the Project|Preparation of presentation materials|
+|9/01|Day 5|Preparation for presentation|Presentation|
+|9/02|||Departure from Thailand|
+
+---
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
+- Preparation for development
+  - [portable Python development environment](./setup/python%2Bvscode.md)
+
+- Learning tasks
+  - image processing
+  - image recognition
+  - image recognition advanced
+
+- Materials provided
+  - [Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
+
+---
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Reference
+- MediaPipe
+  - [Examples](https://developers.google.com/mediapipe/solutions/examples)
+  - [Guide](https://developers.google.com/mediapipe/solutions/guide)
+- OpenCV
+  - [docs(4.7.0-dev)](https://docs.opencv.org/4.x/)
+
+
+
+
+
