@@ -8,7 +8,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Goal
-- Deverop image recognition application that benefit society
+- Deverop image recognition application that contribute to society
     - REGULATIONS
         - The application must use image recognition.
         - The application must use videos (include stream from webcam).
