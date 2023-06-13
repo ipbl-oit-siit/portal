@@ -38,13 +38,10 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - [portable Python development environment](./setup/python%2Bvscode.md)
 
 - Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition))
-    - [Image processing basics for static image](basics/basics_image.md)
-    - [Image processing basics for video (webcam)](basics/basics_video.md)
+    - Image processing basics for static image
+    - Image processing basics for video (webcam)
     - Image recognition
-        - [MediaPipe PoseLandmark](mediapipe/pose.md)
-        - [MediaPipe Hands (HandLandmark, HandGestureRecognize)](mediapipe/hand.md)
-        - [MediaPipe FaceLandmark](mediapipe/face.md)
-    - [advanced](advanced/advanced.md)
+    - advanced
 
 - Materials provided
     - [Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
