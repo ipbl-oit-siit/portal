@@ -40,8 +40,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition))
     - Image processing basics for static image
     - Image processing basics for video (webcam)
+    - Image processing advanced
     - Image recognition
-    - advanced
 
 - Materials provided
     - [Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
