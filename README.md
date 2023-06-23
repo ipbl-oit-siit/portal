@@ -25,11 +25,11 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |Date||AM 09:00-11:30|PM 12:30-16:00|
 |-|-|-|-|
 |8/27|||Arrival in Thailand|
-|8/28|Day 1|Opening|Preparation for development, Self-study for image processing|
-|8/29|Day 2|Self-study for image recognition|Determination of project theme|
-|8/30|Day 3|Excursion||
-|8/31|Day 4|Advancing the Project|Preparation of presentation materials|
-|9/01|Day 5|Preparation for presentation|Presentation|
+|8/28|Day1|Opening|Preparation for development, Self-study for image processing|
+|8/29|Day2|Self-study for image recognition|Determination of project theme|
+|8/30|Day3|Excursion||
+|8/31|Day4|Advancing the Project|Preparation of presentation materials|
+|9/01|Day5|Preparation for presentation|Presentation|
 |9/02|||Departure from Thailand|
 
 ---
