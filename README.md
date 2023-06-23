@@ -35,7 +35,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
 - Preparation for development
-    - [portable Python development environment](./setup/python%2Bvscode.md)
+    - [portable Python development environment](./setup/python%2Bvscode.md) :x: `not yet`
 
 - Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition))
     - Image processing basics for static image
