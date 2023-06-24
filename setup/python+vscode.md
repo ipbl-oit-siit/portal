@@ -44,7 +44,7 @@
     <image src="../image/warning02.png" width="40%" height="40%"><br>
     - Please select `More info` and `Run anyway`.
 - Choose "Yes".<br>
-  <image src="../image/py22_ipbl_installer.png" width="30%" height="30%">
+  <image src="../image/py23i_instll.jpg" width="30%" height="30%">
 - This installer setup the image processing environment (Python3 + VSCode) into "C:\oit\py23_ipbl", and creates a link on your Desktop.
 
 > **Note**
