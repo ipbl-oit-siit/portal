@@ -1,11 +1,11 @@
 # Image Processing Environment for iPBL
 
 ## Objectives
-- This page explains how to install both Python and VSCode constitute of our image processing environment.
+- This page explains how to install both Python and VSCode to constitute our image processing environment.
 - This environment does not affect the PC environment in which it is installed.
 
-#### Details of the installed environment (![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)notyet)
-- Python3.9.11 (embedded)
+#### Details of the installed environment
+- Python3.10.11.amd64 (WPy64-310111)
   - dlib 19.24.2
   - matplotlib 3.7.1
   - mediapipe 0.10.0
