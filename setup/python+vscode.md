@@ -6,25 +6,28 @@
 
 #### Details of the installed environment (![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)notyet)
 - Python3.9.11 (embedded)
-  - numpy 1.22.4
-  - matplotlib 3.5.2
-  - opencv-python 4.5.5.64
-  - opencv-contrib-python 4.5.5.64
-  - mediapipe 0.8.10
-  - msvc-runtime 14.29.30133
-  - pyttsx3 2.90
-- Visual Studio Code 1.67.1 (portable)
-  - EvilInspector
-  - Jupyter
-  - Pylance
-  - Python
-  - Remote - Containers
+  - dlib 19.24.2
+  - matplotlib 3.7.1
+  - mediapipe 0.10.0
+  - numpy 1.23.4
+  - opencv-contrib-python 4.7.0.72
+  - opencv-python 4.7.0.72
+  - openpyxl 3.1.2
+  - Pillow 9.5.0
+  - pip 23.1.2
+  - PyAutoGUI 0.9.54
+  - PyDirectInput 1.0.4
+  - PyQt5 5.15.9
+  - pyqtgraph 0.13.3
+  - pywin32 306
+  - scikit-learn 1.2.2
+  - scipy 1.10.1 <br>
+  and more...
+- Visual Studio Code 1.78.2 (portable)
 
 ## prerequisite
 - Windows 10 or 11
-- 8GB Memory or more
-- 1GB HDD (C: drive)
-- Webcam
+- Buit-in camera or USB-camera
 - Uninstalling or stopping antivirus software
   - They may remove our installer and batch files.
 
