@@ -33,11 +33,11 @@
 
 ## Setup both Python and VSCode with our installer (![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)notyet)
 ### procedure
-- Download our installer file by clicking the following url.
-  - https://oskit-my.sharepoint.com/:u:/g/personal/takao_jinno_oit_ac_jp/ETjlZJd8kyVMneqBBgjIZF4Bvif1w_ETaELJDmA7arJ6Ow?e=t02zsa
-    - **PW is written on Slack( #general channel).**
+- Download our installer file by clicking the following URL.
+  - https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EZxAOta5NB5PhpFHhL7KAfMBkG_ZG66DqbUq35fBlNv8IA?e=5gsTwr
+    - **PW is written on XXXX.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
-- Execute "py22_ipbl_installer2022xxxx.exe" file.
+- Execute "py23i_instl.exe" file.
   - This installer is safe.
   - **Even if the following warning pops up, execute it.**<br>
     <image src="../image/warning01.png" width="40%" height="40%"><br>
