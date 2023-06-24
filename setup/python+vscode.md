@@ -23,32 +23,32 @@
   - scikit-learn 1.2.2
   - scipy 1.10.1 <br>
   and more...
-- Visual Studio Code 1.78.2 (portable)
+- Visual Studio Code 1.78.2 (Portable)
 
 ## prerequisite
 - Windows 10 or 11
-- Buit-in camera or USB-camera
+- Built-in camera or USB-camera
 - Uninstalling or stopping antivirus software
   - They may remove our installer and batch files.
 
 ## Setup both Python and VSCode with our installer (![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)notyet)
 ### procedure
-- Download our installer file by clicking the following URL.
+- Download our installer file (405MB) by clicking the following URL.
   - https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EZxAOta5NB5PhpFHhL7KAfMBkG_ZG66DqbUq35fBlNv8IA?e=5gsTwr
     - **PW is written on XXXX.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py23i_instl.exe" file.
   - This installer is safe.
-  - **Even if the following warning pops up, execute it.**<br>
+  - **Even if the following warning pops up (The background color is red in some cases.), execute it.**<br>
     <image src="../image/warning01.png" width="40%" height="40%"><br>
     <image src="../image/warning02.png" width="40%" height="40%"><br>
     - Please select `More info` and `Run anyway`.
 - Choose "Yes".<br>
   <image src="../image/py22_ipbl_installer.png" width="30%" height="30%">
-- This installer setup the image processing environment (Python3 + VSCode) into "C:\oit\py22_ipbl", and create link on your Desktop.
+- This installer setup the image processing environment (Python3 + VSCode) into "C:\oit\py23_ipbl", and creates a link on your Desktop.
 
 > **Note**
-> Creating link to folder often fails. In that case, please go directly to "C:\oit\py22_ipbl". It is possible to create the link manually, but DO NOT move the folder!)
+> Creating a link on the Desktop often fails. In that case, please run directly to "C:\oit\py23_ipbl". It is possible to create the link manually, but DO NOT move the folder!)
 
 #### Installed folder structure
 - installed folder "C:\oit\py22_ipbl"
