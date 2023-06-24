@@ -31,7 +31,7 @@
 - Uninstalling or stopping antivirus software
   - They may remove our installer and batch files.
 
-## Setup both Python and VSCode with our installer (![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)notyet)
+## Setup both Python and VSCode with our installer
 ### procedure
 - Download our installer file (405MB) by clicking the following URL.
   - https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EZxAOta5NB5PhpFHhL7KAfMBkG_ZG66DqbUq35fBlNv8IA?e=5gsTwr
@@ -49,18 +49,16 @@
   <image src="../image/icon.png" width="10%" height="10%">
 
 > **Note**
-> Creating a link on the Desktop often fails. In that case, please run directly to "C:\oit\py23_ipbl". It is possible to create the link manually, but DO NOT move the folder!)
+> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py23_ipbl\py23i_start.bat" directly. It is possible to create the link manually, but DO NOT move any folder!)
 
 #### Installed folder structure
 - installed folder "C:\oit\py22_ipbl"
-  - **code**: work folder
-  - python-3.9.11-embede-amd64: embedded python
-  - VSCode-win32-x64-1.67.1:  portable visual studio code
-  - **console.bat**: open the command prompt with python-3.9.11 settings
-  - **vscode.bat**: open VSCode with python-3.9.11 settings
-  - [hidden file] setup.bat: create the link of "py22_ipbl" on your Desktop
-  - [hidden file] settings: support files for setup<br>
-    <image src="../image/py22_ipbl_folder.png">
+  - **SourceCode**: the working directory for saving the source code
+  - **usedfiles**: Need not touch
+  - **VSCode**: Need not touch, Visual Studio Code 1.78.2
+  - **WPy64-310111**: Need not touch, Python3.10.11.amd64 (WPy64-310111)
+  - **fig_pbl.ico**: icon file
+  - **py23i_start.bat**: bat file to **start this environment up** 
 
 ### :o:Checkpoint(Python version of Command Prompt)
 - Execute "console.bat" file.
