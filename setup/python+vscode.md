@@ -52,7 +52,7 @@
 > Creating a link on the Desktop often fails. In that case, please run "C:\oit\py23_ipbl\py23i_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the py23_ipbl folder!)
 
 #### Installed folder structure
-- installed folder "C:\oit\py23_ipbl"
+- This environment is installed to "C:\oit\py23_ipbl", and its inside is included the following.
   - **SourceCode**: the working directory for saving the source code
   - **usedfiles**: NEED NOT touch
   - **VSCode**: NEED NOT touch, Visual Studio Code 1.78.2
