@@ -62,13 +62,14 @@
 
 ### :o:Checkpoint1(Start the environment 1)
 - Start the environment from "py23_start" icon on the Desktop (or C:\oit\py23_ipbl\py23i_start.bat).
-- **Even if the following warning pops up...**
+- **If the following warning pops up...**
   - **CHECK** the "Trust the authors..." box out
   - CLICK the **"YES"** button <br>
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint2(Start the environment 2)
-- If you have not opened Command Prompt, execute "console.bat" file.
+- **If the location of the EXPLORER does not be the SouceCode folder, you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.**<be>
+  <image src="../image/vsws_explorer.png" width="50%" height"50%">
 - Please confirm pip command and Python modules.
   ```sh
   C:\oit\py22_ipbl\code>python -m pip list
