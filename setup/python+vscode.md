@@ -78,10 +78,10 @@
 ### :o:Checkpoint(Run python code with VSCode)
 - Please confirm how to execute the sample Python code with VSCode.
   - Open the "hello_python.py" file with Double Click in [SOURCECODE]-[samples] folder of the explorer menu.<br>
-    <image src="../image/vs_sample1.png" width="50%" height="50%">
+    <image src="../image/vs_sample1.png" width="75%" height="75%">
   - Open the terminal window if it's not appeared.<br>
     - **Note** The current Working directory shown in the terminal window has to be the same as the file's location to execute. <br>
-      In the following case, you have to change the directory to "C:\oit\py23_ipbl\SourceCode\samples\" with the "cd" command.
+      In the following case, you have to change the directory to "C:\oit\py23_ipbl\SourceCode\samples\" with the "cd" command. <br>
       <image src="../image/vs_cdcommand.png" width="50%" height="50%"><br>
   -
   - Please confirm that the sample python code is executable on the Tarminal of VSCode.
