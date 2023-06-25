@@ -68,8 +68,9 @@
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint2(Start the environment 2)
-- **If the location of the EXPLORER does not be the SouceCode folder, you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.**<be>
-  <image src="../image/vsws_explorer.png" width="50%" height"50%">
+- **If the location of the EXPLORER does not be the SouceCode folder(SOURCE CODE), you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.** <br>
+  <image src="../image/vsws_explorer.png" width="50%" height="50%">
+  
 - Please confirm pip command and Python modules.
   ```sh
   C:\oit\py22_ipbl\code>python -m pip list
