@@ -91,9 +91,9 @@
     ```
     <br>
     
-    > **Note** The program is executable with the run button, but we suggest executing with the command line. <br>
+    > **Note** The program is executable with the run button, but **we suggest executing with the command line**. <br>
     > <image src="../image/vs_runbutton.png"><br>
     <br>
 
   - The following are running results successfully.<br>
-    <image src="../image/vs_runsample1"><br>
+    <image src="../image/vs_runsample1.png"><br>
