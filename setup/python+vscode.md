@@ -54,14 +54,14 @@
 #### Installed folder structure
 - installed folder "C:\oit\py23_ipbl"
   - **SourceCode**: the working directory for saving the source code
-  - **usedfiles**: Need not touch
-  - **VSCode**: Need not touch, Visual Studio Code 1.78.2
-  - **WPy64-310111**: Need not touch, Python3.10.11.amd64 (WPy64-310111)
+  - **usedfiles**: NEED NOT touch
+  - **VSCode**: NEED NOT touch, Visual Studio Code 1.78.2
+  - **WPy64-310111**: NEED NOT touch, Python3.10.11.amd64 (WPy64-310111)
   - **fig_pbl.ico**: icon file
   - **py23i_start.bat**: bat file to start this environment up 
 
-### :o:Checkpoint(Python version of Command Prompt)
-- Execute "console.bat" file.
+### :o:Checkpoint(Start the environment)
+- Start the environment from "py23_start" icon on the Desktop (or C:\oit\py23_ipbl\py23i_start.bat).
 - Please confirm the Python version of Command Prompt.
   ```sh
   C:\oit\py22_ipbl\code>python --version
