@@ -87,7 +87,7 @@
     <br>
   - Please confirm that the Python code is able to execute in the terminal window.
     ```sh
-    C:\oit\py23_ipbl\SourceCode>python hello_python.py
+    C:\oit\py23_ipbl\SourceCode\samples> python hello_python.py
     ```
     <br>
     
