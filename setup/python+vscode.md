@@ -2,7 +2,11 @@
 
 ## Objectives
 - This page explains how to install both Python and VSCode to constitute our image processing environment.
-- It is not affecting the PC environment (like the registry) even if this environment is installed.
+- It is not affecting the PC environment (like the registry) even if this environment is installed. <br>
+  
+    > **Note** All you have to do is delete the folder when this environment is no longer needed.
+  
+  <br>
 
 #### Details of the installed environment
 - Python3.10.11.amd64 (WPy64-310111)
@@ -106,8 +110,15 @@
   - It is the sample of capturing from the camera and showing frames with the cv2 library.
   - The window is closed if \'q\' button is pressed.
 - Give it a try to run the "test_mediapipe.py"
-  - It is the old way to use the mediapipe, but you can experiment with the following methods defined in the mediapipe.<br>
+  - This program is written in the old usage of the Mediapipe, but you can experiment with the following methods defined in the Mediapipe.<br>
+    - All methods simultaneously with \'a\' button
     - FACE with \'f\' button
     - FACE MESH with \'m\' button
     - HANDS with \'h\' button
-    - POSE with \'p\' button
+    - POSE with \'p\' button <br>
+  
+  <br>
+  
+  > **Note** The latest usage of the Mediapipe is able to be learned in another section.
+
+  <br>
