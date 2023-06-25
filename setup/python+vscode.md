@@ -90,8 +90,10 @@
     C:\oit\py23_ipbl\SourceCode>python hello_python.py
     ```
     <br>
+    
     > **Note** The program is executable with the run button, but we suggest executing with the command line. <br>
+    > <image src="../image/vs_runbutton.png"><br>
     <br>
-  - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
-    <image src="../image/hands.png" width="25%" height="25%"><br>
-  - If you want to stop this program, press "Esc" key while the preview window is active.
+
+  - The following are running results successfully.<br>
+    <image src="../image/vs_runsample1"><br>
