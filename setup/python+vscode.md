@@ -2,7 +2,7 @@
 
 ## Objectives
 - This page explains how to install both Python and VSCode to constitute our image processing environment.
-- This environment does not affect the PC environment in which it is installed.
+- It is not affecting the PC environment (like the registry) even if this environment is installed.
 
 #### Details of the installed environment
 - Python3.10.11.amd64 (WPy64-310111)
@@ -39,7 +39,7 @@
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py23i_instl.exe" file.
   - This installer is safe.
-  - **Even if the following warning pops up (The background color is red in some cases.), execute it.**<br>
+  - **If the following warning pops up (The background color is red in some cases.), Please choose "run anyway" after clicking the "more info" link. **<br>
     <image src="../image/warning01.png" width="40%" height="40%"><br>
     <image src="../image/warning02.png" width="40%" height="40%"><br>
     - Please select `More info` and `Run anyway`.
