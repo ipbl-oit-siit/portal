@@ -60,15 +60,14 @@
   - **fig_pbl.ico**: icon file
   - **py23i_start.bat**: bat file to start this environment up 
 
-### :o:Checkpoint(Start the environment)
+### :o:Checkpoint1(Start the environment 1)
 - Start the environment from "py23_start" icon on the Desktop (or C:\oit\py23_ipbl\py23i_start.bat).
-- Please confirm the Python version of Command Prompt.
-  ```sh
-  C:\oit\py22_ipbl\code>python --version
-  Python 3.9.11
-  ```
+- **Even if the following warning pops up...**
+  - **CHECK** the "Trust the authors..." box out
+  - CLICK the **"YES"** button <br>
+    <image src="../image/trust_vsws.png" width="50%" height="50%">
 
-### :o:Checkpoint(Python pip command)
+### :o:Checkpoint2(Start the environment 2)
 - If you have not opened Command Prompt, execute "console.bat" file.
 - Please confirm pip command and Python modules.
   ```sh
