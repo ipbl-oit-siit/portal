@@ -68,37 +68,12 @@
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint2(Start the environment 2)
-- **If the location of the EXPLORER does not be the SouceCode folder(SOURCE CODE), you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.** <br>
+- **If the location of the EXPLORER does not be the SouceCode folder(SOURCECODE), you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
-  
-- Please confirm pip command and Python modules.
-  ```sh
-  C:\oit\py22_ipbl\code>python -m pip list
-  Package               Version
-  --------------------- -----------
-  ...(some module information)...
-  matplotlib            3.5.2
-  mediapipe             0.8.10
-  msvc-runtime          14.29.30133
-  numpy                 1.22.4
-  opencv-contrib-python 4.5.5.64
-  opencv-python         4.5.5.64
-  packaging             21.3
-  Pillow                9.1.1
-  pip                   22.1
-  protobuf              3.20.1
-  pyparsing             3.0.9
-  pypiwin32             223
-  python-dateutil       2.8.2
-  pyttsx3               2.90
-  ...(some module information)...
-  ```
-- Please confirm pip install command.
-  ```sh
-  C:\oit\py22_ipbl\code>python -m pip install -U numpy
-  Requirement already satisfied: numpy in c:\oit\py22_ipbl\python-3.9.11\lib\site-packages (1.22.4)
-  ```
-  - Update numpy if a newer version has already been released.
+- **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.*** <br>
+  <image src="../image/vsws_tmenu.png" width="50%" height="50%">
+- Please confirm Python modules by pip list command.
+  <image src="../image/vsws_piplist.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Run python code with Command Prompt)
 - If you have not opened Command Prompt, execute "console.bat" file.
