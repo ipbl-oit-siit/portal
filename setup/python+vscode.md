@@ -43,13 +43,13 @@
     <image src="../image/warning01.png" width="40%" height="40%"><br>
     <image src="../image/warning02.png" width="40%" height="40%"><br>
     - Please select `More info` and `Run anyway`.
-- Choose "Yes".<br>
+- Choose "はい(Y)".<br>
   <image src="../image/py23i_instll.jpg" width="20%" height="20%">
 - This installer setup the image processing environment (Python3 + VSCode) into "C:\oit\py23_ipbl", and creates the following link on your Desktop.<br>
   <image src="../image/icon.png" width="10%" height="10%">
 
 > **Note**
-> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py23_ipbl\py23i_start.bat" directly. It is possible to create the link manually, but DO NOT move any folder!)
+> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py23_ipbl\py23i_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the py23_ipbl folder!)
 
 #### Installed folder structure
 - installed folder "C:\oit\py23_ipbl"
@@ -60,14 +60,14 @@
   - **fig_pbl.ico**: icon file
   - **py23i_start.bat**: bat file to start this environment up 
 
-### :o:Checkpoint1(Start the environment 1)
+### :o:Checkpoint(Start the environment 1)
 - Start the environment from "py23_start" icon on the Desktop (or C:\oit\py23_ipbl\py23i_start.bat).
 - **If the following warning pops up...**
   - **CHECK** the "Trust the authors..." box out
   - CLICK the **"YES"** button <br>
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
-### :o:Checkpoint2(Start the environment 2)
+### :o:Checkpoint(Start the environment 2)
 - **If the location of the EXPLORER does not be the SouceCode folder(SOURCECODE), you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
 - **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
@@ -75,54 +75,15 @@
 - Please confirm Python modules by pip list command.<br>
   <image src="../image/vsws_piplist.png" width="50%" height="50%">
 
-### :o:Checkpoint(Run python code with Command Prompt)
-- If you have not opened Command Prompt, execute "console.bat" file.
-- Please confirm that the sample python code is executable with command prompt.
-  ```sh
-  PS C:\oit\py22_ipbl\code>python hands.py
-  ```
-  - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
-    <image src="../image/hands.png" width="25%" height="25%">
-  - If you want to stop this program, press "Esc" key while the preview window is active.
-
-### :o:Checkpoint(EXTENSIONS of VScode)
-- Execute "vscode.bat" file.
-- If the following message is pop-up, please check "Trust the authors of all files in the parent folder 'py22_ipbl'" and choose "Yes, I trust the authors".<br>
-  <image src="../image/warning_VSCode[first_time].png" width="50%" height="50%">
-- If the following message pops up, please ignore message and close pop-up window **by clicking "x" button**.<br>
-  <image src="../image/vscode_error.png" width="50%" height="50%">
-  - This error happen when `EXTENSIONS` of VSCode lose the python path, but it works fine.
-- Please confirm `EXTENSIONS` of VSCode
-  - Click the following button (`EXTENSIONS` Tab button).<br>
-    <image src="../image/Extensions_button.png" width="5%" height="5%">
-  - Please confirm installed `EXTENSIONS`
-    - EvilInspector
-    - Jupyter
-    - Pylance
-    - Python
-    - Remote - Containers
-
-### :o:Checkpoint(Python version of VSCode)
-- If you have not opened VSCode, execute "vscode.bat" file.
-- If the Terminal of VSCode is not opened, open the New Terminal as follows.
-  <image src="../image/vscode_new_terminal.png" width="50%" height="50%"><br>
-  <image src="../image/vscode_terminal_path.png" width="50%" height="50%"><br>
-- Please confirm python version of the Terminal of VSCode
-  ```sh
-  C:\oit\py22_ipbl\code>python --version
-  Python 3.9.11
-  ```
-
 ### :o:Checkpoint(Run python code with VSCode)
-- If you have not opened VSCode, execute "vscode.bat" file.
-- Please confirm that the sample python code is executable with VSCode.
-  - Double click "hands.py" -> Open "hands.py"<br>
-    <image src="../image/vscode_sample.png" width="50%" height="50%">
-  - If the Terminal of VSCode is not opened, open the New Terminal as follows.<br>
-    <image src="../image/vscode_new_terminal.png" width="50%" height="50%">
-  - **At this time, make sure that the terminal path matches the parent directory of the Python code which you want to run.**<br>
-    <image src="../image/vscode_terminal_hands.png" width="50%" height="50%"><br>
-    - If necessary, move the directory by the `cd` command.
+- Please confirm how to execute the sample Python code with VSCode.
+  - Open the "hello_python.py" file with Double Click in [SOURCECODE]-[samples] folder of the explorer menu.<br>
+    <image src="../image/vs_sample1.png" width="50%" height="50%">
+  - Open the terminal window if it's not appeared.<br>
+    - **Note** The current Working directory shown in the terminal window has to be the same as the file's location to execute. <br>
+      In the following case, you have to change the directory to "C:\oit\py23_ipbl\SourceCode\samples\" with the "cd" command.
+      <image src="../image/vs_cdcommand.png" width="50%" height="50%"><br>
+  -
   - Please confirm that the sample python code is executable on the Tarminal of VSCode.
     ```sh
     C:\oit\py22_ipbl\code>python hands.py
