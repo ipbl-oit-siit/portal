@@ -70,9 +70,9 @@
 ### :o:Checkpoint2(Start the environment 2)
 - **If the location of the EXPLORER does not be the SouceCode folder(SOURCECODE), you have to open the "C:\oit\py23_ipbl\SourceCode" from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
-- **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.*** <br>
+- **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
   <image src="../image/vsws_tmenu.png" width="50%" height="50%">
-- Please confirm Python modules by pip list command.
+- Please confirm Python modules by pip list command.<br>
   <image src="../image/vsws_piplist.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Run python code with Command Prompt)
