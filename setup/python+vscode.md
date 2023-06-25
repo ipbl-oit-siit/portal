@@ -80,14 +80,18 @@
   - Open the "hello_python.py" file with Double Click in [SOURCECODE]-[samples] folder of the explorer menu.<br>
     <image src="../image/vs_sample1.png" width="100%" height="100%">
   - Open the terminal window if it's not appeared.<br>
-    - **Note** The current Working directory shown in the terminal window has to be the same as the file's location to execute. <br>
-      In the following case, you have to change the directory to "C:\oit\py23_ipbl\SourceCode\samples\" with the "cd" command. <br>
-      <image src="../image/vs_cdcommand.png" width="100%" height="100%"><br>
-  -
-  - Please confirm that the sample python code is executable on the Tarminal of VSCode.
+    <br>
+    > **Note** The current Working directory shown in the terminal window has to be the same as the file's location to execute. <br>
+    >   In the following case, you have to change the directory to "C:\oit\py23_ipbl\SourceCode\samples\" with the "cd" command. <br>
+    >   <image src="../image/vs_cdcommand.png" width="100%" height="100%"><br>
+    <br>
+  - Please confirm that the Python code is able to execute in the terminal window.
     ```sh
-    C:\oit\py22_ipbl\code>python hands.py
+    C:\oit\py23_ipbl\SourceCode>python hello_python.py
     ```
+    <br>
+    > **Note** The program is executable with the run button, but we suggest executing with the command line. <br>
+    <br>
   - If it works normally, the webcam will start, and the shape of the hand will be recognized as shown below.<br>
     <image src="../image/hands.png" width="25%" height="25%"><br>
   - If you want to stop this program, press "Esc" key while the preview window is active.
