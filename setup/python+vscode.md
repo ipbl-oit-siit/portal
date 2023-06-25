@@ -97,3 +97,17 @@
 
   - The following are running results successfully.<br>
     <image src="../image/vs_runsample1.png"><br>
+
+### :o: Practice
+- Give it a try to run the ”show_image.py”.
+  - It is the sample of reading and showing an image file with the cv2 library.
+  - The window is closed if any button is pressed.
+- Give it a try to run the "show_video.py"
+  - It is the sample of capturing from the camera and showing frames with the cv2 library.
+  - The window is closed if \'q\' button is pressed.
+- Give it a try to run the "test_mediapipe.py"
+  - It is the old way to use the mediapipe, but you can experiment with the following methods defined in the mediapipe.<br>
+    - FACE with \'f\' button
+    - FACE MESH with \'m\' button
+    - HANDS with \'h\' button
+    - POSE with \'p\' button
