@@ -38,7 +38,7 @@
 ## Setup both Python and VSCode with our installer
 ### procedure
 - Download our installer file (405MB) by clicking the following URL.
-  - https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EZxAOta5NB5PhpFHhL7KAfMBkG_ZG66DqbUq35fBlNv8IA?e=5gsTwr
+  - https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EWfz3jSUWchLlrW9HwD-bnYBdxiQvslxluGfz3aksTZePw?e=Ru4z3G
     - **PW is written on XXXX.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py23i_instl.exe" file.
