@@ -1,6 +1,6 @@
 # IPBL Portal Site for OIT and SIIT in 2023
 
-This page shows the iPBL schedule, deadlines for each assignment, and educational materials. For other URLs, please see the iPBL URL List provided in Slack.
+This page shows the iPBL schedule, deadlines for each assignment, and educational materials.
 
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
@@ -19,6 +19,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - abstract of your theme and application
         - demonstration
         - technical keypoints of your application
+> **Note** This program uses image recognition with trained models. Training on proprietary data is out of scope.
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
