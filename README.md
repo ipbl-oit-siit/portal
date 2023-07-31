@@ -47,6 +47,11 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Materials provided
     - [Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
 
+- Image recognition samples<br>
+<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_ges_simple.jpg" width=15%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/mypose_simple.jpg" width=20%><br>
+<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_dtc_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myobj_simple.jpg" width=20%><br>
+<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myseg_simple.jpg" width=60%><br>
+
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Reference
 - MediaPipe
