@@ -37,7 +37,6 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |8/31|Day4|Advancing the Project|Preparation of presentation materials|
 |9/01|Day5|Preparation for presentation|Presentation|
 |9/02|||Departure from Thailand|
-- [more ditails (pdf)](https://oskit-my.sharepoint.com/personal/yoshiyuki_kamakura_oit_ac_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2Fshares%5Fdrive%2Fipbl2023%2Fshare%2F469833984726794340%5F2023%20iPBL%20Schedule%20amd%20Plan%20%2D%20For%20OIT%2Epdf&parent=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2Fshares%5Fdrive%2Fipbl2023%2Fshare)
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
