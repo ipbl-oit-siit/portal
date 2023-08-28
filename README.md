@@ -23,7 +23,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Member and docs
-- https://oskit-my.sharepoint.com/:x:/g/personal/yoshiyuki_kamakura_oit_ac_jp/ESJGfzipoRFIo3ETg5632Y8Buxwrep_1gaNaJT_DgQXifQ?e=JrKN7R    - pa
+- [spreadsheet](https://oskit-my.sharepoint.com/:x:/g/personal/yoshiyuki_kamakura_oit_ac_jp/ESJGfzipoRFIo3ETg5632Y8Buxwrep_1gaNaJT_DgQXifQ?e=JrKN7R)
     - Passwords will be shared on face to face.
 
 ---
