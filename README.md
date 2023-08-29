@@ -32,7 +32,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |-|-|-|-|
 |8/27|||Arrival in Thailand|
 |8/28|Day1|Opening|Preparation for development, Self-study for image processing|
-|8/29|Day2|Self-study for image recognition|Determination of project theme<br> 15:00~ Interim Report (whithin 5 minutes)|
+|8/29|Day2|Self-study for image recognition|Determination of project theme<br> 15:20~ Interim Report (whithin 5 minutes)|
 |8/30|Day3|Excursion||
 |8/31|Day4|Advancing the Project|Preparation of presentation materials|
 |9/01|Day5|Preparation for presentation|Presentation|
