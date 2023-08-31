@@ -35,8 +35,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |8/29|Day2|Self-study for image recognition|Determination of project theme<br> 15:20~ Interim Report (whithin 5 minutes)|
 |8/30|Day3|Excursion||
 |8/31|Day4|Advancing the Project|Preparation of presentation materials|
-|9/01|Day5|Preparation for presentation|Presentation|
-|9/02|||Departure from Thailand|
+|9/01|Day5|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing ceremony<br>17:00~ Farewell dinner|
+|9/02|||18:00~ Pick up OIT students at Na Mo Tho Mansion<br>20:00 Arrrive at the Suvarnabhumi Airport<br> 23:59~ Departure from Thailand|
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
