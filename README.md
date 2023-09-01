@@ -1,4 +1,4 @@
-# IPBL Portal Site for OIT and SIIT in 2023
+![image](https://github.com/ipbl-oit-siit/portal/assets/62533161/2878be49-a421-4128-9fdd-0f00ad450097)# IPBL Portal Site for OIT and SIIT in 2023
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials.
 
@@ -48,7 +48,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 1. Voting with MS Forms (15:30 ~)
 1. Survey with MS Forms
 1. Please fill in the forms during the tally
-1. Commendation 
+1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
 1. Group photo
 1. 16:00
