@@ -53,7 +53,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 1. Group photo
 1. 16:00
 
-### Please confirm that your team has already uploaded the two requirement files.
+### Please upload the two requirement files.
 - Requirements
   - presentation slide (pptx or pdf)
   - source code (zip)
