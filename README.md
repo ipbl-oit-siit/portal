@@ -39,6 +39,29 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |9/02||Free|18:00~ Pick up OIT students at Na Mo Tho Mansion<br>20:00 Arrrive at the Suvarnabhumi Airport<br> 23:59~ Departure from Thailand|
 
 ---
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Final presentation
+
+### Schedule of final presentation and closing
+1. Final Presentation (14:00 ~)
+    1. Team 1  ->  Team 2  ->  Team 3  ->  Team 4  ->  Team 5
+    1. Each team has10min (presentation) + 5min (Q&A)
+1. Voting with MS Forms (15:30 ~)
+1. Survey with MS Forms
+1. Please fill in the forms during the tally
+1. Commendation 
+1. Awarding of Certificates of Completion
+1. Group photo
+1. 16:00
+
+### Please confirm that your team has already uploaded the two requirement files.
+- Requirements
+  - presentation slide (pptx or pdf)
+  - source code (zip)
+    - [If possible] operation manual of your software (pdf)
+  - Upload folder of final competition
+    - https://oskit-my.sharepoint.com/personal/yoshiyuki_kamakura_oit_ac_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2Fshares%5Fdrive%2Fipbl2023%2Fshare%2FfinalContents
+
+---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
 - Preparation for development
     - [portable Python development environment](./setup/python%2Bvscode.md)
