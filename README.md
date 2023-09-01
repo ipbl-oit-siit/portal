@@ -1,4 +1,4 @@
-![image](https://github.com/ipbl-oit-siit/portal/assets/62533161/2878be49-a421-4128-9fdd-0f00ad450097)# IPBL Portal Site for OIT and SIIT in 2023
+# IPBL Portal Site for OIT and SIIT in 2023
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials.
 
