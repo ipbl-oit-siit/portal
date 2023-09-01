@@ -59,7 +59,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - source code (zip)
     - [If possible] operation manual of your software (pdf)
   - Upload folder of final competition
-    - https://oskit-my.sharepoint.com/personal/yoshiyuki_kamakura_oit_ac_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2Fshares%5Fdrive%2Fipbl2023%2Fshare%2FfinalContents
+    - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EoRA-IrmkC5NuXOmaamNgDQB04muLcAq5SW7M7z16ezLVw?e=4LzfCM (update at 0901 15:19)
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
