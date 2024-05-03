@@ -1,4 +1,4 @@
-# IPBL Portal Site for OIT and SIIT in 2023
+# IPBL Portal Site for OIT and SIIT in 2024
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials.
 
@@ -23,25 +23,27 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Member and docs
-- [spreadsheet](https://oskit-my.sharepoint.com/:x:/g/personal/yoshiyuki_kamakura_oit_ac_jp/ESJGfzipoRFIo3ETg5632Y8Buxwrep_1gaNaJT_DgQXifQ?e=JrKN7R)
+- [spreadsheet]()
     - Passwords will be shared on face to face.
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
-|Date||AM 09:00-11:30|PM 12:30-16:00|
+|Date||AM 09:30-12:00|PM 13:00-16:30|
 |-|-|-|-|
-|8/27|||Arrival in Thailand|
-|8/28|Day1|Opening|Preparation for development, Self-study for image processing|
-|8/29|Day2|Self-study for image recognition|Determination of project theme<br> 15:20~ Interim Report (whithin 5 minutes)|
-|8/30|Day3|Excursion||
-|8/31|Day4|Advancing the Project|Preparation of presentation materials|
-|9/01|Day5|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing ceremony<br>17:00~ Farewell dinner|
-|9/02||Free|18:00~ Pick up OIT students at Na Mo Tho Mansion<br>20:00 Arrrive at the Suvarnabhumi Airport<br> 23:59~ Departure from Thailand|
+|6/10<br>(MON)|Arrival in Japan|Arrival in Japan (XX:XX)<br>Preparation for staying in Japan|
+|6/11<br>(TUE)|Day1|Opening|Preparation for development<br>  + Group discussion<br>Welcome Party?|
+|6/12<br>(WED)|Day2|Excursion (1?) |Excursion (2?)|
+|6/13<br>(THU)|Day3|Group development|Group development<br>  + Short progress report(5min.)|
+|6/14<br>(FRI)|Day4|Group development|Group development<br>  + Short progress report(5min.)|
+|6/15<br>(SAT)|Day5|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing ceremony|
+|6/16<br>(SUN)|Departure from Japan|Free|Pick up SIIT students at ????<br>Arrive at the KIX<br>Departure from Japan(XX:XX)|
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Final presentation
 
 ### Schedule of final presentation and closing
+UNDER CONSTRUCTION
+<!--
 1. Final Presentation (14:00 ~)
     1. Team 1  ->  Team 2  ->  Team 3  ->  Team 4  ->  Team 5
     1. Each team has10min (presentation) + 5min (Q&A)
@@ -60,6 +62,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - [If possible] operation manual of your software (pdf)
   - Upload folder of final competition
     - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EoRA-IrmkC5NuXOmaamNgDQB04muLcAq5SW7M7z16ezLVw?e=4LzfCM (update at Sept.1 15:19)
+-->
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents
