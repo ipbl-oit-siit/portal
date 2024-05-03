@@ -37,7 +37,7 @@
 ## Setup both Python and VSCode with our installer
 ### procedure
 - Download our installer file by clicking the following URL.
-  - [https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EWfz3jSUWchLlrW9HwD-bnYBdxiQvslxluGfz3aksTZePw?download=1](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBChjUI1lJmHaAhiwksxPwUw?download=1)
+  - [https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBdZuu3Tv7FTM3_2rxYct9bg?download=1](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBdZuu3Tv7FTM3_2rxYct9bg?download=1)
     - **PW is written on XXXX.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py24ipbl_install.exe" file.
