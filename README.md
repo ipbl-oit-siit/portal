@@ -89,8 +89,8 @@ UNDER CONSTRUCTION
     - [Examples](https://developers.google.com/mediapipe/solutions/examples)
     - [Guide](https://developers.google.com/mediapipe/solutions/guide)
 - OpenCV
-    - [docs(4.7.0-dev)](https://docs.opencv.org/4.x/)
-    - [Tutorials(4.7.0-dev)](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+    - [docs(4.9.0.80-dev)](https://docs.opencv.org/4.9.0/)
+    - [Tutorials(4.7.0-dev)](https://docs.opencv.org/4.9.0/d9/df8/tutorial_root.html)
 
 
 
