@@ -113,12 +113,40 @@
     <image src="../image/vs_runsample1.png"><br>
 
 ### :o: Practice
-- Give it a try to run the ”show_image.py”.
+- Give it a try to run the ”hello_opencv.py”.
   - It is the sample of reading and showing an image file with the cv2 library.
   - The window is closed if any button is pressed.
 - Give it a try to run the "show_video.py"
-  - It is the sample of capturing from the camera and showing frames with the cv2 library.
-  - The window is closed if \'q\' button is pressed.
+  - Create a new file" named "show_video.py"<br>
+    <image src="../image/create_newfile.png"><br>
+  - The following code is the sample of capturing from the camera and showing frames with the cv2 library.
+    - Please copy & paste this code to "show_video.py".
+    - The window is closed if \'q\' button is pressed.
+    ```
+    import cv2
+    
+    dev = 0
+    
+    def main():
+        cap = cv2.VideoCapture(dev)
+        ht = cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
+        wt = cap.get(cv2.CAP_PROP_FRAME_WIDTH)
+        print(ht," x ", wt)
+    
+        while cap.isOpened():
+            ret, frame = cap.read()
+    
+            if ret==False or cv2.waitKey(1) == ord('q'):
+                break
+    
+            cv2.imshow("video", frame)
+        
+        cap.release()
+        cv2.destroyAllWindows()
+    
+    if __name__=='__main__':
+        main()
+    ```
 - Give it a try to run the "test_mediapipe.py"
   - This program is written in the old usage of the Mediapipe, but you can experiment with the following methods defined in the Mediapipe.<br>
     - All methods simultaneously with \'a\' button
