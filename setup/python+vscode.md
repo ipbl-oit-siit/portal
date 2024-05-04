@@ -37,7 +37,7 @@
 ## Setup both Python and VSCode with our installer
 ### procedure
 - Download our installer file by clicking the following URL.
-  - [https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBdZuu3Tv7FTM3_2rxYct9bg?download=1](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBdZuu3Tv7FTM3_2rxYct9bg?download=1)
+  - [https://oskit-my.sharepoint.com/personal/yoshiyuki_kamakura_oit_ac_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2F%5Fshares%5Fdrive%2Fipbl2024%2Fpy24ipbl%5Finstall%2Eexe&parent=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2F%5Fshares%5Fdrive%2Fipbl2024&ga=1](https://oskit-my.sharepoint.com/personal/yoshiyuki_kamakura_oit_ac_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2F%5Fshares%5Fdrive%2Fipbl2024%2Fpy24ipbl%5Finstall%2Eexe&parent=%2Fpersonal%2Fyoshiyuki%5Fkamakura%5Foit%5Fac%5Fjp%2FDocuments%2F%5Fshares%5Fdrive%2Fipbl2024&ga=1)
     - **PW is written on XXXX.**
     - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py24ipbl_install.exe" file.
