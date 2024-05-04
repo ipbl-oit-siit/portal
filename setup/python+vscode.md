@@ -118,7 +118,7 @@
   - The window is closed if any button is pressed.
 - Give it a try to run the "show_video.py"
   - Create a new file" named "show_video.py"<br>
-    <image src="../image/create_newfile.png"><br>
+    <image src="../image/create_newfile.png" width="50%" height="50%"><br>
   - The following code is the sample of capturing from the camera and showing frames with the cv2 library.
     - Please copy & paste this code to "show_video.py".
     - The window is closed if \'q\' button is pressed.
