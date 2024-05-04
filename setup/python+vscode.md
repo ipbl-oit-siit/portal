@@ -87,12 +87,12 @@
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
 - **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
   <image src="../image/vsws_tmenu.png" width="50%" height="50%">
-- Please confirm Python modules by pip list command.<br>
+- Please confirm Python modules by inputting the `pip list` command in the terminal window.<br>
   <image src="../image/vsws_piplist.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Run python code with VSCode)
 - Please confirm how to execute the sample Python code with VSCode.
-  - Open the "hello_python.py" file with Double Click in [SOURCECODE]-[samples] folder of the explorer menu.<br>
+  - Open the "hello_python.py" file with Double Click in [ipbl24] folder of the explorer menu.<br>
     <image src="../image/vs_sample1.png" width="100%" height="100%">
   - Open the terminal window if it's not appeared.<br>
     <br>
