@@ -94,13 +94,12 @@
 - Please confirm how to execute the sample Python code with VSCode.
   - Open the "hello_python.py" file with Double Click in [ipbl24] folder of the explorer menu.<br>
     <image src="../image/vs_sample1.png" width="100%" height="100%">
-  - Open the terminal window if it's not appeared.<br>
+  - Open the terminal window if it has not appeared.<br>
     <br>
     > **Note** The current Working directory shown in the terminal window has to be the same as the file's location to execute. <br>
     > **Note** You have to change the directory using the 'cd' command, in case the current directory shown in the terminal window is different from the source code directory. <br>
-    >   <image src="../image/vs_cdcommand.png" width="100%" height="100%"><br>
     <br>
-  - Please confirm that the Python code is able to execute in the terminal window.
+  - Please confirm that the Python code can execute in the terminal window.
     ```sh
     C:\oit\py23_ipbl\SourceCode\samples> python hello_python.py
     ```
