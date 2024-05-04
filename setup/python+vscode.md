@@ -36,10 +36,11 @@
 
 ## Setup both Python and VSCode with our installer
 ### procedure
-- Download our installer file by clicking the following URL.
-  - [py24ipbl_install.exe](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUtCHAQ4YodPiPsj98XU7-MBpznKn3AKZ0PVCbmOelydqg?e=gvmRcA)
-    - **PW is written on XXXX.**
-    - If you have installed some antivirus software, this executable file and other batch files may not work properly.
+- Input PW and Download our installer file by clicking the following URL.
+    - [py24ipbl_install.exe](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUtCHAQ4YodPiPsj98XU7-MBpznKn3AKZ0PVCbmOelydqg?e=gvmRcA)<br>
+      <image src="../image/pw.png" width="30%" height="30%">    <image src="../image/dl.png" width="30%" height="30%"><br>
+      - **PW is written on XXXX.**
+      - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py24ipbl_install.exe" file.
   - This installer is safe.
   - **If the following warning pops up (The background color is red in some cases.), Please choose "run anyway" after clicking the "more info" link. **<br>
