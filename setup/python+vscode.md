@@ -42,27 +42,29 @@
       - **PW is written on XXXX.**
       - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py24ipbl_install.exe" file.
-  - This installer is safe.
-  - **If the following warning pops up (The background color is red in some cases.), Please choose "run anyway" after clicking the "more info" link. **<br>
-    <image src="../image/warning01.png" width="40%" height="40%"><br>
-    <image src="../image/warning02.png" width="40%" height="40%"><br>
-    - Please select `More info` and `Run anyway`.
+    > **Note**
+    > - This installer is safe.<br>
+    > - If the following warning pops up (The background color is red in some cases.), Please choose "run anyway" after clicking the "more info" link. <br>
+    > <image src="../image/warning01.png" width="40%" height="40%"><br>
+    > <image src="../image/warning02.png" width="40%" height="40%"><br>
+    > - Please select `More info` and `Run anyway`.
 - Choose "次へ(N)" means NEXT.<br>
   <image src="../image/inst01.png" width="40%" height="40%"><br>
-    **This process skips if you've already installed `py24`**<br>
-  - The following image shows the process for downloading py24.<br>
-    <image src="../image/inst02.png" width="40%" height="40%"><br>
-  - Choose "次へ(N)" means NEXT.<br>
-    <image src="../image/inst03.png" width="40%" height="40%"><br>
-  - The following image shows the process for installing py24.<br>
-    <image src="../image/inst04.png" width="40%" height="40%"><br>
-  - The following image shows the process for installing libraries for Python.<br>
-    <image src="../image/inst05.png" width="40%" height="40%"><br>
+    > **Note** 
+    > The following process skips if you've already installed "py24"<br>
+    >  - The following image shows the process for downloading py24.<br>
+    >    <image src="../image/inst02.png" width="40%" height="40%"><br>
+    >  - Choose "次へ(N)" means NEXT.<br>
+    >    <image src="../image/inst03.png" width="40%" height="40%"><br>
+    >  - The following image shows the process for installing py24.<br>
+    >    <image src="../image/inst04.png" width="40%" height="40%"><br>
+    >  - The following image shows the process for installing libraries for Python.<br>
+    >    <image src="../image/inst05.png" width="40%" height="40%"><br>
 - This installer sets up the image processing environment (Python3.X + VSCode) into "C:\oit\py24", creates the folder for source code in "C:\oit\home\ipbl24" and creates the following link on your Desktop.<br>
   <image src="../image/icon.png" width="10%" height="10%">
 
 > **Note**
-> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py23_ipbl\py23i_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the py23_ipbl folder!)
+> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py24\ipbl24_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the py24 folder!)
 
 #### Installed folder structure
 - This environment is installed to "C:\oit\py24\" and "C:\oit\home\ipbl24\" and its inside is included the following.
