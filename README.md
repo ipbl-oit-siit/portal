@@ -8,22 +8,22 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Goal
-- Deverop image recognition application that contribute to society
+- Develop image recognition application that contributes to society
     - REGULATIONS
         - The application must use image recognition.
-        - The application must use videos (include stream from webcam).
-- Present about your application
+        - The application must use videos (including stream from webcam).
+- Present your application
     - 10min
     - contents
-        - self introduction
+        - self-introduction
         - abstract of your theme and application
         - demonstration
-        - technical keypoints of your application
+        - technical key points of your application
 > **Note** This program uses image recognition with trained models. Training on proprietary data is out of scope.
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Member and docs
-- [spreadsheet]()
+- ~~[spreadsheet]()~~
     - Passwords will be shared on face to face.
 
 ---
@@ -60,7 +60,7 @@ UNDER CONSTRUCTION
   - presentation slide (pptx or pdf)
   - source code (zip)
     - [If possible] operation manual of your software (pdf)
-  - Upload folder of final competition
+  - Upload the folder of the final competition
     - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EoRA-IrmkC5NuXOmaamNgDQB04muLcAq5SW7M7z16ezLVw?e=4LzfCM (update at Sept.1 15:19)
 -->
 
@@ -69,7 +69,7 @@ UNDER CONSTRUCTION
 - Preparation for development
     - [portable Python development environment](./setup/python%2Bvscode.md)
 
-- Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition))
+- Learning tasks (~~[overview link](https://github.com/ipbl-oit-siit/image_recognition)~~)
     - Image processing basics for static image
     - Image processing basics for video (webcam)
     - Image processing advanced
