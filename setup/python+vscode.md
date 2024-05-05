@@ -147,13 +147,13 @@
     if __name__=='__main__':
         main()
     ```
-- Give it a try to run the "test_mediapipe.py"
+- ~~Give it a try to run the "test_mediapipe.py"
   - This program is written in the old usage of the Mediapipe, but you can experiment with the following methods defined in the Mediapipe.<br>
     - All methods simultaneously with \'a\' button
     - FACE with \'f\' button
     - FACE MESH with \'m\' button
     - HANDS with \'h\' button
-    - POSE with \'p\' button <br>
+    - POSE with \'p\' button ~~<br>
   
   <br>
   
