@@ -155,7 +155,7 @@
     - Iris with \'i\' button
     - HANDS with \'h\' button
     - POSE with \'p\' button
-    - Segments with \'s\' button<br> 
+    - SELFIE SEGMENTATION with \'s\' button<br> 
   
   <br>
   
