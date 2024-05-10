@@ -69,7 +69,7 @@ UNDER CONSTRUCTION
 - Preparation for development
     - [portable Python development environment](./setup/python%2Bvscode.md)
 
-- ~~Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition)~~)
+- Learning tasks ([overview link](https://github.com/ipbl-oit-siit/image_recognition))
     - Image processing basics for static image
     - Image processing basics for video (webcam)
     - Image processing advanced
