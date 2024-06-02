@@ -29,7 +29,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 -->
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
-<img src="https://github.com/ipbl-oit-siit/portal/image/schedule.png" width=20%>
+<img src="https://github.com/ipbl-oit-siit/portal/blob/main/image/schedule.png" width=50%>
 <!--
 |Date||AM 09:30-12:00|PM 13:00-16:30|
 |-|-|-|-|
