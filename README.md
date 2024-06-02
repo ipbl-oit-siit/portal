@@ -20,14 +20,16 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - demonstration
         - technical key points of your application
 > **Note** This program uses image recognition with trained models. Training on proprietary data is out of scope.
-
+<!--
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Member and docs
 - ~~[spreadsheet]()~~
     - Passwords will be shared on face to face.
 
 ---
+-->
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
+<!--
 |Date||AM 09:30-12:00|PM 13:00-16:30|
 |-|-|-|-|
 |6/10<br>(MON)|Arrival in Japan|Arrival in Japan (XX:XX)<br>Preparation for staying in Japan|
@@ -37,6 +39,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |6/14<br>(FRI)|Day4|Group development|Group development<br>  + Short progress report(5min.)|
 |6/15<br>(SAT)|Day5|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing ceremony|
 |6/16<br>(SUN)|Departure from Japan|Free|Pick up SIIT students at ????<br>Arrive at the KIX<br>Departure from Japan(XX:XX)|
+-->
 
 ---
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Final presentation
