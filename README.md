@@ -13,7 +13,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - The application must use image recognition.
         - The application must use videos (including stream from webcam).
 - Present your application
-    - 10min
+    - 10min + 5min Q&A
     - contents
         - self-introduction
         - abstract of your theme and application
