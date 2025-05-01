@@ -7,7 +7,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
 
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Goal
+## 🔴 Goal
 - Develop image recognition application that contributes to society
     - REGULATIONS
         - The application must use image recognition.
@@ -28,7 +28,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 ---
 -->
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Schedule
+## 🔴 Schedule
 <img src="https://github.com/ipbl-oit-siit/portal/blob/main/image/schedule.png">
 <!--
 |Date||AM 09:30-12:00|PM 13:00-16:30|
@@ -43,7 +43,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 -->
 
 ---
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Final presentation
+## 🔴 Final presentation
 
 ### Schedule of final presentation and closing
 UNDER CONSTRUCTION
@@ -69,7 +69,7 @@ UNDER CONSTRUCTION
 -->
 
 ---
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Contents (Pre-Requisite Technology)
+## 🔴 Contents (Pre-Requisite Technology)
 - Preparation for development
     - [portable Python development environment](./setup/python%2Bvscode.md)
 
@@ -88,7 +88,7 @@ UNDER CONSTRUCTION
 <img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myseg_simple.jpg" width=60%><br>
 
 ---
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Reference
+## 🔴 Reference
 - MediaPipe
     - [Examples](https://developers.google.com/mediapipe/solutions/examples)
     - [Guide](https://developers.google.com/mediapipe/solutions/guide)
