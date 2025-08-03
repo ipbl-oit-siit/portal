@@ -37,11 +37,11 @@
 ## Setup both Python and VSCode with our installer
 ### procedure
 - Input PW and Download our installer file by clicking the following URL.
-    - [py24ipbl_install.exe](https://oskit-my.sharepoint.com/:u:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EUB3TbBkHGlEgrRWy81_NjMBdZuu3Tv7FTM3_2rxYct9bg?e=S0cI8K)<br>
+    - [py25en.exe](https://oskit-my.sharepoint.com/:f:/r/personal/yoshiyuki_kamakura_oit_ac_jp/Documents/_shares_drive/ipbl2025/share/Python?csf=1&web=1&e=M5L2gz)<br>
       <image src="../image/pw.png" width="40%" height="40%">    <image src="../image/dl.png" width="40%" height="40%"><br>
       - **PW is written on XXXX.**
       - If you have installed some antivirus software, this executable file and other batch files may not work properly.
-- Execute "py24ipbl_install.exe" file.
+- Execute "py25en.exe" file.
     > **Note**
     > - This installer is safe.<br>
     > - If the following warning pops up (The background color is red in some cases.), Please choose "run anyway" after clicking the "more info" link. <br>
@@ -64,26 +64,25 @@
   <image src="../image/icon.png" width="10%" height="10%">
 
 > **Note**
-> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py24\ipbl24_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the py24 folder!)
+> Creating a link on the Desktop often fails. In that case, please run "C:\oit\py25en\py25en_start.bat" directly. It is possible to create the link manually, but DO NOT move anything in the `py25en` folder!)
 
 #### Installed folder structure
-- This environment is installed to "C:\oit\py24\" and "C:\oit\home\ipbl24\" and its inside is included the following.
-  - **C:\oit\home\ipbl24**: the working directory for saving the source code (Directory "py24" NEED NOT touch)
+- This environment is installed to "C:\oit\py25en\" and its inside is included the following.
+  - **C:\oit\py25en\source**: the working directory for saving the source code (Directory "py25en" NEED NOT touch)
   - **C:\oit\py24\_tmp_**: NEED NOT touch
   - **C:\oit\py24\VSCode**: NEED NOT touch, Visual Studio Code 1.87.2
-  - **C:\oit\py24\WPy64-31180**: NEED NOT touch, Python3.11.8.amd64 (WPy64-31180)
-  - **C:\oit\py24\py24_start.bat**: NEED NOT touch 
-  - **C:\oit\py24\ipbl24_start.bat**: bat file to start this environment up 
+  - **C:\oit\py24\WPy64-31290**: NEED NOT touch, Python3.12.9.amd64 (WPy64-31180)
+  - **C:\oit\py24\py25en_start.bat**: bat file to start this environment up 
 
 ### :o:Checkpoint(Start the environment 1)
-- Start the environment from "ipbl24_start" icon on the Desktop (or C:\oit\py24\ipbl24_start.bat).
+- Start the environment from "py25en_start" icon on the Desktop (or C:\oit\py25en\py25en_start.bat).
 - **If the following warning pops up...**
   - **CHECK** the "Trust the authors..." box out
   - CLICK the **"YES"** button <br>
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Start the environment 2)
-- **If the location of the EXPLORER does not be the SouceCode folder(SOURCECODE), you have to open the "C:\oit\home\ipbl24\" from the [File]-[Open Folder] menu.** <br>
+- **If the location of the EXPLORER does not be the `souce` folder(SOURCECODE), you have to open the `C:\oit\py25en\sorce\` from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
 - **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
   <image src="../image/vsws_tmenu.png" width="50%" height="50%">
@@ -92,7 +91,7 @@
 
 ### :o:Checkpoint(Run python code with VSCode)
 - Please confirm how to execute the sample Python code with VSCode.
-  - Open the "hello_python.py" file with Double Click in [ipbl24] folder of the explorer menu.<br>
+  - Open the "hello_python.py" file with Double Click in [source] folder of the explorer menu.<br>
     <image src="../image/vs_sample1.png" width="100%" height="100%">
   - Open the terminal window if it has not appeared.<br>
     <br>
@@ -101,7 +100,7 @@
     <br>
   - Please confirm that the Python code can execute in the terminal window.
     ```sh
-    C:\oit\py23_ipbl\SourceCode\samples> python hello_python.py
+    C:\oit\py25en\source> python hello_python.py
     ```
     <br>
     
@@ -147,17 +146,6 @@
     if __name__=='__main__':
         main()
     ```
-- Give it a try to run the "[test_mediapipe.py](https://github.com/ipbl-oit-siit/portal/blob/32ea3c044e85933636d841ef2d663520e94a4353/setup/test_mediapipe.py)"
-  - This program is written in the old usage of the Mediapipe, but you can experiment with the following solutions defined in the Mediapipe.<br>
-    - All solutions simultaneously with \'a\' button
-    - FACE with \'f\' button
-    - FACE MESH with \'m\' button
-    - Iris with \'i\' button
-    - HANDS with \'h\' button
-    - POSE with \'p\' button
-    - SELFIE SEGMENTATION with \'s\' button<br> 
-  
-  <br>
   
   > **Note** The latest usage of the Mediapipe is able to be learned in another section.
 

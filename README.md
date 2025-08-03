@@ -20,27 +20,18 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - demonstration
         - technical key points of your application
 > **Note** This program uses image recognition with trained models. Training on proprietary data is out of scope.
-<!--
----
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Member and docs
-- ~~[spreadsheet]()~~
-    - Passwords will be shared on face to face.
 
----
--->
+
 ## 🔴 Schedule
-<img src="https://github.com/ipbl-oit-siit/portal/blob/main/image/schedule.png">
-<!--
 |Date||AM 09:30-12:00|PM 13:00-16:30|
 |-|-|-|-|
-|6/10<br>(MON)|Arrival in Japan|Arrival in Japan (XX:XX)<br>Preparation for staying in Japan|
-|6/11<br>(TUE)|Day1|Opening|Preparation for development<br>  + Group discussion<br>Welcome Party?|
-|6/12<br>(WED)|Day2|Excursion (1?) |Excursion (2?)|
-|6/13<br>(THU)|Day3|Group development|Group development<br>  + Short progress report(5min.)|
-|6/14<br>(FRI)|Day4|Group development|Group development<br>  + Short progress report(5min.)|
-|6/15<br>(SAT)|Day5|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing ceremony|
-|6/16<br>(SUN)|Departure from Japan|Free|Pick up SIIT students at ????<br>Arrive at the KIX<br>Departure from Japan(XX:XX)|
--->
+|9/7<br>(SUN)|Relocation Day|Meeting time: 9:30 AM<br>Departure from Japan(KIX)|Arrival in Thailand (15:35)<br>Preparation for staying in thailand|
+|9/8<br>(MON)|Day1|Icebreaker: Introductions and Sharing<br> About Your Universities and Local Areas |Preparation for development<br>  + Group discussion|
+|9/9<br>(TUE)|Day2|Group development|Group development<br>  + Short progress report(5min.)|
+|9/10<br>(WED)|Excursion|Excursion to Bangkok<br>Pick up OIT students at ????|
+|9/11<br>(THU)|Day3|Group development|Group development|
+|9/12<br>(FRI)|Day4|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing|
+|9/13<br>(SAT)|Relocation Day|Free|Pick up OIT students at ????<br>Departure from Thailand(BKK)<br>Departure from Thai(23:59)|
 
 ---
 ## 🔴 Final presentation
@@ -93,8 +84,8 @@ UNDER CONSTRUCTION
     - [Examples](https://developers.google.com/mediapipe/solutions/examples)
     - [Guide](https://developers.google.com/mediapipe/solutions/guide)
 - OpenCV
-    - [docs(4.9.0.80-dev)](https://docs.opencv.org/4.9.0/)
-    - [Tutorials(4.9.0-dev)](https://docs.opencv.org/4.9.0/d9/df8/tutorial_root.html)
+    - [docs(4.11.0)](https://docs.opencv.org/4.11.0/)
+    - [Tutorials(4.11.0)](https://docs.opencv.org/4.11.0/d9/df8/tutorial_root.html)
 
 
 
