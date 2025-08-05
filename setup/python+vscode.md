@@ -53,7 +53,8 @@
     > <image src="../image/warning02.png" width="40%" height="40%"><br>
     > - Please select `More info` and `Run anyway`.
 - Choose "次へ(N)" means NEXT.<br>
-  <image src="../image/inst01.png" width="40%" height="40%"><br>
+  <image src="../image/inst01.png" width="40%" height="40%"><be>
+  <!--
     > **Note** 
     > The following process skips if you've already installed "py24"<br>
     >  - The following image shows the process for downloading py24.<br>
@@ -64,6 +65,7 @@
     >    <image src="../image/inst04.png" width="40%" height="40%"><br>
     >  - The following image shows the process for installing libraries for Python.<br>
     >    <image src="../image/inst05.png" width="40%" height="40%"><br>
+  -->
 - This installer sets up the image processing environment (Python3.X + VSCode) into "C:\oit\py24", creates the folder for source code in "C:\oit\home\ipbl24" and creates the following link on your Desktop.<br>
   <image src="../image/icon.png" width="10%" height="10%">
 
