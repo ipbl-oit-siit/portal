@@ -79,9 +79,9 @@
 #### Installed folder structure
 - This environment is installed to "C:\oit\py25en\" and its inside is included the following.
   - **C:\oit\py25en\source**: the working directory for saving the source code (Directory "py25en" NEED NOT touch)
-  - **C:\oit\py24\_tmp_**: NEED NOT touch
-  - **C:\oit\py24\VSCode**: NEED NOT touch, Visual Studio Code 1.87.2
-  - **C:\oit\py24\WPy64-31290**: NEED NOT touch, Python3.12.9.amd64 (WPy64-31180)
+  - **C:\oit\py25en\\_tmp_**: NEED NOT touch
+  - **C:\oit\py25en\VSCode**: NEED NOT touch, Visual Studio Code
+  - **C:\oit\py24\WPy64-312101**: NEED NOT touch, Python3.12.10amd64 (WPy64-312101)
   - **C:\oit\py24\py25en_start.bat**: bat file to start this environment up 
 
 ### :o:Checkpoint(Start the environment 1)
@@ -92,12 +92,22 @@
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Start the environment 2)
-- **If the location of the EXPLORER does not be the `souce` folder(SOURCECODE), you have to open the `C:\oit\py25en\sorce\` from the [File]-[Open Folder] menu.** <br>
+- **If the location of the EXPLORER does not be the `souce` folder(SOURCE), you have to open the `C:\oit\py25en\sorce\` from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
 - **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
   <image src="../image/vsws_tmenu.png" width="50%" height="50%">
 - Please confirm Python modules by inputting the `pip list` command in the terminal window.<br>
   <image src="../image/vsws_piplist.png" width="50%" height="50%">
+
+### :o:Checkpoint(Start the environment 3)
+- **When you select the `.py` file in the Explorer window, if the status bar shows `Select Python Interpreter` ...** <br>
+  <image src="../image/vs_setting01.png" width="50%" height="50%">
+- **you need to set the path to `python.exe` (`C:\oit\py25en\WPy64-312101\python\python.exe`) as shown below.** <br>
+  <image src="../image/vs_setting02.png" width="50%" height="50%"><br>
+  <image src="../image/vs_setting03.png" width="50%" height="50%">
+- **To check whether the interpreter is set correctly, use the status bar or the command palette (Select Interpreter).**
+  <image src="../image/vs_setting04.png" width="50%" height="50%"><br>
+  <image src="../image/vs_setting05.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Run python code with VSCode)
 - Please confirm how to execute the sample Python code with VSCode.
