@@ -9,24 +9,29 @@
   <br>
 
 #### Details of the installed environment
-- Python3.10.11.amd64 (WPy64-310111)
-  - dlib 19.24.2
-  - matplotlib 3.8.4
-  - mediapipe 0.10.11
-  - numpy 1.26.4
-  - opencv-contrib-python 4.9.0.80
-  - opencv-python 4.9.0.80
-  - Pillow 10.3.0
-  - pip 24.0
-  - PyAutoGUI 0.9.54
-  - PyDirectInput 1.0.4
-  - PyQt5 5.15.10
-  - pyqtgraph 0.13.7
-  - pywin32 306
-  - scikit-learn 1.4.2
-  - scipy 1.13.0 <br>
+- Python3.10.11.amd64 (WPy64-312101)
+  - dlib                  20.0.0
+  - imutils               0.5.4
+  - matplotlib            3.10.5
+  - mediapipe             0.10.21
+  - numpy                 1.26.4
+  - opencv-contrib-python 4.11.0.86
+  - opencv-python         4.11.0.86
+  - pillow                11.3.0
+  - pip                   25.2
+  - protobuf              4.25.8
+  - PyAudio               0.2.14
+  - PyAutoGUI             0.9.54
+  - PyDirectInput         1.0.4
+  - PyQt5                 5.15.11
+  - pyqtgraph             0.13.7
+  - pywin32               311
+  - scikit-image          0.25.2
+  - scikit-learn          1.7.1
+  - scipy                 1.16.1
+
   and more...
-- Visual Studio Code 1.87.2 (Portable)
+- Visual Studio Code 1.102.3 (Portable)
 
 ## prerequisite
 - Windows 10 or 11
