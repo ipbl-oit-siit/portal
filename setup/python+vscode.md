@@ -70,7 +70,7 @@
     >  - The following image shows the process for installing libraries for Python.<br>
     >    <image src="../image/inst05.png" width="40%" height="40%"><br>
   -->
-- This installer sets up the image processing environment (Python3.X + VSCode) into "C:\oit\py24", creates the folder for source code in "C:\oit\home\ipbl24" and creates the following link on your Desktop.<br>
+- This installer sets up the image processing environment (Python3.X + VSCode) into "C:\oit\py25en", creates the folder for source code in "C:\oit\py25en\source" and creates the following link on your Desktop.<br>
   <image src="../image/icon.png" width="10%" height="10%">
 
 > **Note**
