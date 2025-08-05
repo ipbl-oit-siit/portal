@@ -53,7 +53,11 @@
     > <image src="../image/warning02.png" width="40%" height="40%"><br>
     > - Please select `More info` and `Run anyway`.
 - Choose "次へ(N)" means NEXT.<br>
-  <image src="../image/inst01.png" width="40%" height="40%"><be>
+  <image src="../image/inst01.png" width="40%" height="40%"><br>
+  > Process of installation...<br>
+  > <image src="../image/inst02.png" width="40%" height="40%"><br>
+  > Process of installation...<br>
+  > <image src="../image/inst03.png" width="40%" height="40%"><br>
   <!--
     > **Note** 
     > The following process skips if you've already installed "py24"<br>
