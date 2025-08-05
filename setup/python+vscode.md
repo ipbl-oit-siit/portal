@@ -111,7 +111,7 @@
 
 ### :o:Checkpoint(Run python code with VSCode)
 - Please confirm how to execute the sample Python code with VSCode.
-  - Open the "hello_python.py" file with Double Click in [source] folder of the explorer menu.<br>
+  - Open the "sample1.py" file with Double Click in [source] folder of the explorer menu.<br>
     <image src="../image/vs_sample1.png" width="100%" height="100%">
   - Open the terminal window if it has not appeared.<br>
     <br>
@@ -120,16 +120,16 @@
     <br>
   - Please confirm that the Python code can execute in the terminal window.
     ```sh
-    C:\oit\py25en\source> python hello_python.py
+    C:\oit\py25en\source> python sample1.py
     ```
     <br>
     
     > **Note** The program is executable with the run button, but **we suggest executing with the command line**. <br>
-    > <image src="../image/vs_runbutton.png"><br>
+    > <image src="../image/vs_sample2.png"><br>
     <br>
 
   - The following are running results successfully.<br>
-    <image src="../image/vs_runsample1.png"><br>
+    <image src="../image/vs_sample3.png"><br>
 
 ### :o: Practice
 - Give it a try to run the ”hello_opencv.py”.
