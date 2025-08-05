@@ -40,11 +40,10 @@
   - They may remove our installer and batch files.
 
 ## Setup both Python and VSCode with our installer
-### procedure
-- Input PW and Download our installer file by clicking the following URL.
+### Installation of py25en Instructions
+- Download our installer file by clicking the following URL.
     - [py25en.exe](https://oskit-my.sharepoint.com/:f:/r/personal/yoshiyuki_kamakura_oit_ac_jp/Documents/_shares_drive/ipbl2025/share/Python?csf=1&web=1&e=M5L2gz)<br>
-      <image src="../image/pw.png" width="40%" height="40%">    <image src="../image/dl.png" width="40%" height="40%"><br>
-      - **PW is written on XXXX.**
+      <image src="../image/dl.png" width="40%" height="40%"><br>
       - If you have installed some antivirus software, this executable file and other batch files may not work properly.
 - Execute "py25en.exe" file.
     > **Note**
