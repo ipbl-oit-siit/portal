@@ -23,7 +23,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 
 
 ## 🔴 Schedule
-|Date||AM 09:30-12:00|PM 13:00-16:30|
+|Date||AM 09:30-12:00|PM 13:30-16:30|
 |-|-|-|-|
 |9/7<br>(SUN)|Relocation Day|Meeting time: 9:30 AM<br>Departure from Japan(KIX 11:45)|Arrival in Thailand (15:35)<br>Preparation for staying in thailand|
 |9/8<br>(MON)|Day1|Icebreaker: Introductions and Sharing<br> About Your Universities and Local Areas |Preparation for development<br>  + Group discussion|
