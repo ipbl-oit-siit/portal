@@ -12,7 +12,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - REGULATIONS
         - The application must use image recognition.
         - The application must use videos (including stream from webcam).
-- Present your application
+- Short progress report (9/9 16:00-)
+    - 5min
+- Present your application (Final 9/12 14:00-)
     - 10min + 5min Q&A
     - contents
         - self-introduction
