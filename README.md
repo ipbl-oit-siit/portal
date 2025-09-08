@@ -14,6 +14,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - The application must use videos (including stream from webcam).
 - Short progress report (9/9 16:00-)
     - 5min
+    - contents
+        - theme and abstract (or idea) of your application
 - Present your application (Final 9/12 14:00-)
     - 10min + 5min Q&A
     - contents
