@@ -38,7 +38,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |9/13<br>(SAT)|Relocation Day|Free|Pick up OIT students at 18:30)<br>Departure from Thailand(BKK 23:59)|
 
 ---
-## 🔴 Final presentation
+## 🔴 Final presentation (9/12 FRI)
 
 ### Schedule of final presentation and closing
 UNDER CONSTRUCTION
