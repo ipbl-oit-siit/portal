@@ -31,7 +31,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |-|-|-|-|
 |9/7<br>(SUN)|Relocation Day|Meeting time: 9:30 AM<br>Departure from Japan(KIX 11:45)|Arrival in Thailand (15:35)<br>Preparation for staying in thailand|
 |9/8<br>(MON)|Day1|Icebreaker: Introductions and Sharing<br> About Your Universities and Local Areas |Preparation for development<br>  + Group discussion|
-|9/9<br>(TUE)|Day2|Group development|Group development<br>  + Short progress report(5min.)|
+|9/9<br>(TUE)|Day2|Group development|Group development<br>  + Short progress report(16:00-, within 5 minutes per team)|
 |9/10<br>(WED)|Excursion|Excursion to Bangkok<br>Pick up OIT students at 8:00am|
 |9/11<br>(THU)|Day3|Group development|Group development|
 |9/12<br>(FRI)|Day4|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing|
