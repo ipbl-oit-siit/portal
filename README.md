@@ -67,11 +67,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
 1. Group photo (- 17:00)
-1. Farewell dinner (18:00 -)? (17:30 -)?
-    1. 14 OIT + 14 SIIT
-<!--
+1. Farewell dinner (18:00 -)
+    1. 14 OIT + 15 SIIT
     2. Yang Noey Thammasat（[MAP](https://www.google.com/maps/place/Yang+Noey+Thammasat+U.+(branch+2)/@14.0657119,100.6094492,20.46z/data=!4m6!3m5!1s0x30e27ff04a0c3c95:0xc81a9099faafed46!8m2!3d14.0656581!4d100.6098244!16s%2Fg%2F1pp2tkj4j?entry=ttu&g_ep=EgoyMDI1MDkwOC4wIKXMDSoASAFQAw%3D%3D)）
--->
 
 ### 🟢Please upload the two requirement files.
 - Requirements
