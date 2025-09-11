@@ -65,7 +65,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - source code (zip)
     - [If possible] operation manual of your software (pdf)
   - Upload the your team folder
-    - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EsslfD1tOtZGnuCsoB3m3g8Bwka-yqcUMdXjqTIK0jwNfw?e=9uoV7W
+    - [OneDrive](https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EsslfD1tOtZGnuCsoB3m3g8Bwka-yqcUMdXjqTIK0jwNfw?e=9uoV7W)
 
 ---
 ## 🔴 Contents (Pre-Requisite Technology)
