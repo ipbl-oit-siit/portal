@@ -7,6 +7,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
 
+## 🔴 Table Layout
+<img width="3970" height="2480" alt="table_layout" src="https://github.com/user-attachments/assets/2da286c9-eaf2-48c6-ab2a-7deb53ae5898" />
+
 ## 🔴 Goal
 - Develop image recognition application that contributes to society
     - REGULATIONS
@@ -47,18 +50,28 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ### 🟢Schedule of final presentation and closing
 <!-- UNDER CONSTRUCTION -->
 1. Final Presentation (14:00 -)
-    1. Team A  ->  Team B  ->  Team C  ->  Team D  ->  Team E
-    1. Each team has 10min (presentation) + 5min (Q&A)
+    1. `Team A`  ->  `Team B`  ->  `Team C`  ->  `Team D`  ->  `Team E`
+    1. Each team has `10min` (presentation) + `5min` (Q&A)
 1. Voting with MS Forms (15:30 -)
     1. URL (TBD)
+    1. Voting Categories
+        1. Best Presentation
+        1. Highest Social Contribution
+        1. Most Interesting Application
+        1. Best Technocal Application
+    1. Awoard Categories
+        1. TBD
 1. Survey with MS Forms
     1. URL (TBD)
     1. Please fill in the forms during the tally
 1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
-1. Group photo (- 16:30)
-1. Farewell dinner (17:00 -)
+1. Group photo (- 17:00)
+1. Farewell dinner (18:00 -)? (17:30 -)?
     1. 14 OIT + 14 SIIT
+<!--
+    2. Yang Noey Thammasat（[MAP](https://www.google.com/maps/place/Yang+Noey+Thammasat+U.+(branch+2)/@14.0657119,100.6094492,20.46z/data=!4m6!3m5!1s0x30e27ff04a0c3c95:0xc81a9099faafed46!8m2!3d14.0656581!4d100.6098244!16s%2Fg%2F1pp2tkj4j?entry=ttu&g_ep=EgoyMDI1MDkwOC4wIKXMDSoASAFQAw%3D%3D)）
+-->
 
 ### 🟢Please upload the two requirement files.
 - Requirements
@@ -86,6 +99,10 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 <img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_ges_simple.jpg" width=15%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/mypose_simple.jpg" width=20%><br>
 <img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_dtc_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myobj_simple.jpg" width=20%><br>
 <img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myseg_simple.jpg" width=60%><br>
+
+---
+## 🔴 Student Exchange Program (for Partner Universities)
+- https://www.oit.ac.jp/en/sep-partneruniv.html
 
 ---
 ## 🔴 Reference
