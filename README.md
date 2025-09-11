@@ -57,7 +57,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
 1. Group photo
-1. - 16:00
+1. 16:00
 
 ### Please upload the two requirement files.
 - Requirements
