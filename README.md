@@ -44,7 +44,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 ## 🔴 Final presentation (9/12 FRI)
 
-### Schedule of final presentation and closing
+### 🟢Schedule of final presentation and closing
 <!-- UNDER CONSTRUCTION -->
 1. Final Presentation (14:00 -)
     1. Team A  ->  Team B  ->  Team C  ->  Team D  ->  Team E
@@ -59,7 +59,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 1. Group photo
 1. 16:00
 
-### Please upload the two requirement files.
+### 🟢Please upload the two requirement files.
 - Requirements
   - presentation slide (pptx or pdf)
   - source code (zip)
