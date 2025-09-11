@@ -8,7 +8,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ---
 
 ## 🔴 Table Layout
-<img width="3970" height="2480" alt="table_layout" src="https://github.com/user-attachments/assets/2da286c9-eaf2-48c6-ab2a-7deb53ae5898" />
+<img width="500" alt="table_layout" src="https://github.com/user-attachments/assets/2da286c9-eaf2-48c6-ab2a-7deb53ae5898" />
 
 ## 🔴 Goal
 - Develop image recognition application that contributes to society
