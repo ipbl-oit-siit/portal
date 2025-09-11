@@ -45,14 +45,15 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 ## 🔴 Final presentation (9/12 FRI)
 
 ### Schedule of final presentation and closing
-UNDER CONSTRUCTION
-<!--
+<!- UNDER CONSTRUCTION -->
 1. Final Presentation (14:00 ~)
-    1. Team 1  ->  Team 2  ->  Team 3  ->  Team 4  ->  Team 5
-    1. Each team has10min (presentation) + 5min (Q&A)
+    1. Team A  ->  Team B  ->  Team C  ->  Team D  ->  Team E
+    1. Each team has 10min (presentation) + 5min (Q&A)
 1. Voting with MS Forms (15:30 ~)
+    1. URL (TBD)
 1. Survey with MS Forms
-1. Please fill in the forms during the tally
+    1. URL (TBD)
+    1. Please fill in the forms during the tally
 1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
 1. Group photo
@@ -63,9 +64,8 @@ UNDER CONSTRUCTION
   - presentation slide (pptx or pdf)
   - source code (zip)
     - [If possible] operation manual of your software (pdf)
-  - Upload the folder of the final competition
-    - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EoRA-IrmkC5NuXOmaamNgDQB04muLcAq5SW7M7z16ezLVw?e=4LzfCM (update at Sept.1 15:19)
--->
+  - Upload the your team folder
+    - https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EsslfD1tOtZGnuCsoB3m3g8Bwka-yqcUMdXjqTIK0jwNfw?e=9uoV7W
 
 ---
 ## 🔴 Contents (Pre-Requisite Technology)
