@@ -75,7 +75,7 @@
     <image src="../image/trust_vsws.png" width="50%" height="50%">
 
 ### :o:Checkpoint(Start the environment 2)
-- **If the location of the EXPLORER does not be the `souce` folder(SOURCE), you have to open the `C:\oit\py25en\sorce\` from the [File]-[Open Folder] menu.** <br>
+- **If the location of the EXPLORER does not be the `source` folder(SOURCE), you have to open the `C:\oit\py25en\source\` from the [File]-[Open Folder] menu.** <br>
   <image src="../image/vsws_explorer.png" width="50%" height="50%">
 - **If the terminal window has not shown, please open it from the [Terminal]-[New Terminal] menu.** <br>
   <image src="../image/vsws_tmenu.png" width="50%" height="50%">
