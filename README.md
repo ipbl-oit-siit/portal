@@ -41,7 +41,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 |9/9<br>(TUE)|Day2|Group development|Group development<br>  + Short progress report(16:00-, within 5 minutes per team)|
 |9/10<br>(WED)|Excursion|Excursion to Bangkok<br>Pick up OIT students at 8:00am|
 |9/11<br>(THU)|Day3|Group development|Group development|
-|9/12<br>(FRI)|Day4|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing|
+|9/12<br>(FRI)|Day4|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing<br>18:00~ Farewell dinner|
 |9/13<br>(SAT)|Relocation Day|Free|Pick up OIT students at 18:30)<br>Departure from Thailand(BKK 23:59)|
 
 ---
