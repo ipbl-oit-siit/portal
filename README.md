@@ -53,7 +53,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     1. `Team A`  ->  `Team B`  ->  `Team C`  ->  `Team D`  ->  `Team E`
     1. Each team has `10min` (presentation) + `5min` (Q&A)
 1. Voting with MS Forms (15:30 -)
-    1. URL (TBD)
+    1. https://forms.office.com/r/4EBdnRDK8D
     1. Voting Categories
         1. Best Presentation
         1. Highest Social Contribution
@@ -63,7 +63,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         1. Best Presentation Award
         1. Overall Excellence Award
 1. Survey with MS Forms
-    1. URL (TBD)
+    1. https://forms.office.com/r/sbtE8aPwAC
     1. Please fill in the forms during the tally
 1. Awarding of Final Presentation
 1. Awarding of Certificates of Completion
