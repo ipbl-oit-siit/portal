@@ -60,7 +60,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         1. Most Interesting Application
         1. Best Technocal Application
     1. Awoard Categories
-        1. TBD
+        1. Best Presentation Award
+        1. Overall Excellence Award
 1. Survey with MS Forms
     1. URL (TBD)
     1. Please fill in the forms during the tally
