@@ -1,16 +1,17 @@
-# IPBL Portal Site for OIT and SIIT in 2025
+# IPBL Portal Site for OIT and SIIT in 2026
 
 This page shows the iPBL schedule, deadlines for each assignment, and educational materials.
 
 ## Participating Universities
-- [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
+- [Osaka Institute of Technology](http://www.oit.ac.jp/index.html) (OIT)
 - [Sirindhorn International Institute of Technology](https://www.siit.tu.ac.th/) (SIIT)
 ---
 
-## 🔴 Table Layout
-<img width="500" alt="table_layout" src="https://github.com/user-attachments/assets/2da286c9-eaf2-48c6-ab2a-7deb53ae5898" />
-
 ## 🔴 Goal
+
+- UNDER CONSTRUCTION
+
+<!--
 - Develop image recognition application that contributes to society
     - REGULATIONS
         - The application must use image recognition.
@@ -27,28 +28,32 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         - demonstration
         - technical key points of your application
 > **Note** This program uses image recognition with trained models. Training on proprietary data is out of scope.
-
+-->
 
 ## 🔴 Schedule
-- Change from Thursday to avoid the canteen being crowded.
-  - morning session: ~~9:30-12:00~~ -> 9:30-11:30
-  - afternoon session: ~~13:30-16:30~~ -> 13:00-16:30
 
-|Date||AM 09:30-11:30|PM 13:00-16:30|
+- The time is tentative (update 2026/06/23).
+
+|Date||AM 10:00-12:00|PM 13:30-17:00|
 |-|-|-|-|
-|9/7<br>(SUN)|Relocation Day|Meeting time: 9:30 AM<br>Departure from Japan(KIX 11:45)|Arrival in Thailand (15:35)<br>Preparation for staying in thailand|
-|9/8<br>(MON)|Day1|Icebreaker: Introductions and Sharing<br> About Your Universities and Local Areas |Preparation for development<br>  + Group discussion|
-|9/9<br>(TUE)|Day2|Group development|Group development<br>  + Short progress report(16:00-, within 5 minutes per team)|
-|9/10<br>(WED)|Excursion|Excursion to Bangkok<br>Pick up OIT students at 8:00am|
-|9/11<br>(THU)|Day3|Group development|Group development|
-|9/12<br>(FRI)|Day4|Preparation for presentation|14:00~ Presentation<br>15:30~ Closing<br>18:00~ Farewell dinner|
-|9/13<br>(SAT)|Relocation Day|Free|Pick up OIT students at 18:30)<br>Departure from Thailand(BKK 23:59)|
+|7/23<br>(THU)|Relocation & Day1|Arrival in Japan (KIX 7:30)<br>Pick up SIIT students at XX:XX<br>Move to Dormitory (AM)|Move to OIT Hirakata Campus<br> Opening / Day1 (PM)<br>Welcome Party (EVENING)|
+|7/24<br>(FRI)|Day2|Group development|Group development|
+|7/25<br>(SAT)|Day3|Group development|Group development<br> + Short progress report<br> (16:00-, within 5 minutes per team)|
+|7/26<br>(SUN)|Excursion|Excursion to Kyoto<br>Biovoltex Kyoto<br>10:00-|Free|
+|7/27<br>(MON)|Day4|Group development|Group development|
+|7/28<br>(TUE)|Day5|Preparation for presentation|13:30~ Conpetition & Presentation<br>15:30~ Closing|
+|7/29<br>(WED)|Relocation Day|Free|Pick up SIIT students at (XX:XX)<br>Departure from Japan (KIX 17:35)|
 
 ---
-## 🔴 Final presentation (9/12 FRI)
+## 🔴 Final presentation (7/28 TUE)
+
+- UNDER CONSTRUCTION
+ 
+<!--
 
 ### 🟢Schedule of final presentation and closing
-<!-- UNDER CONSTRUCTION -->
+
+
 1. Final Presentation (14:00 -)
     1. `Team A`  ->  `Team B`  ->  `Team C`  ->  `Team D`  ->  `Team E`
     1. Each team has `10min` (presentation) + `5min` (Q&A)
@@ -80,6 +85,8 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
   - Upload the your team folder
     - [OneDrive](https://oskit-my.sharepoint.com/:f:/g/personal/yoshiyuki_kamakura_oit_ac_jp/EsslfD1tOtZGnuCsoB3m3g8Bwka-yqcUMdXjqTIK0jwNfw?e=9uoV7W)
 
+-->
+
 ---
 ## 🔴 Contents (Pre-Requisite Technology)
 - Preparation for development
@@ -95,9 +102,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - [Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
 
 - Image recognition samples<br>
-<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myhand_ges_simple.jpg" width=15%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/mypose_simple.jpg" width=20%><br>
-<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myface_dtc_simple.jpg" width=20%><img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myobj_simple.jpg" width=20%><br>
-<img src="https://github.com/ipbl-oit-siit/MediaPipeClass/blob/main/image/myseg_simple.jpg" width=60%><br>
+
 
 ---
 ## 🔴 Student Exchange Program (for Partner Universities)
