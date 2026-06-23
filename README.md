@@ -95,8 +95,9 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
 - Learning tasks
     - [Image processing basics for static image](https://github.com/ipbl-oit-siit/image_recognition/blob/main/image_processing/basics_image.md)
     - [Image processing basics for video (webcam)](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_video.md)
-    - [Advanced Image Processing: HSV Color Space](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_hsv_static.md)
-    - [Advanced Image Processing: AR Marker Detection and Overlay](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_armarker_static.md)
+    - [Basics Image Processing: HSV Color Space](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_hsv_static.md)
+    - [Basics Image Processing: AR Marker Detection and Overlay](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_armarker_static.md)
+    - [Advanced Image Processing: Image Processing with Camera](https://github.com/ipbl-oit-siit/drone_programming/blob/main/advanced_imp_with_video.md)
     - [Advanced Image Recognition: Our MediaPipe Class]()
     - [Image processing and control for Hula-JP Drone](https://github.com/ipbl-oit-siit/drone_programming/blob/main/README.md)
 
