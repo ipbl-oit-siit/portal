@@ -63,7 +63,7 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
         1. Best Presentation
         1. Highest Social Contribution
         1. Most Interesting Application
-        1. Best Technocal Application
+        1. Best Technical Application
     1. Award Categories
         1. Best Presentation Award
         1. Overall Excellence Award
