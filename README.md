@@ -93,13 +93,15 @@ This page shows the iPBL schedule, deadlines for each assignment, and educationa
     - [portable Python development environment](./setup/python%2Bvscode.md)
 
 - Learning tasks
-    - [Image processing basics for static image](https://github.com/ipbl-oit-siit/image_recognition/blob/main/image_processing/basics_image.md)
-    - [Image processing basics for video (webcam)](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_video.md)
-    - [Basics Image Processing: HSV Color Space](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_hsv_static.md)
-    - [Basics Image Processing: AR Marker Detection and Overlay](https://github.com/ipbl-oit-siit/drone_programming/blob/main/basics_armarker_static.md)
-    - [Advanced Image Processing: Image Processing with Camera](https://github.com/ipbl-oit-siit/drone_programming/blob/main/advanced_imp_with_video.md)
-    - [Advanced Image Recognition: Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
-    - [Image processing and control for Hula-JP Drone](https://github.com/ipbl-oit-siit/drone_programming/blob/main/README.md)
+    - [Drone Programming](https://github.com/ipbl-oit-siit/drone_programming/tree/main)
+        - [Image processing basics for static image](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/basics_image.md)
+        - [Image processing basics for video (webcam)](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/basics_video.md)
+        - [Basics Image Processing: HSV Color Space](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/basics_hsv_static.md)
+        - [Basics Image Processing: AR Marker Detection and Overlay](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/basics_armarker_static.md)
+        - [Advanced Image Processing: Image Processing with Camera](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/advanced_imp_with_video.md)
+        - [Image processing and control for Hula-JP Drone](https://github.com/ipbl-oit-siit/drone_programming/blob/main/docs/drone_control.md)
+    - Optional tasks
+        - [Advanced Image Recognition: Our MediaPipe Class](https://github.com/ipbl-oit-siit/MediaPipeClass)
 
 ---
 ## 🔴 Student Exchange Program (for Partner Universities)
